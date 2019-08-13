@@ -1,4 +1,4 @@
-"先安装插件管理工具plug和ctags
+"使用此配置文件请先用以下命令安装插件管理工具plug和ctags
 "curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 "sudo apt-get install ctags
 "插件安装
