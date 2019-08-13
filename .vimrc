@@ -34,7 +34,6 @@ set ruler
 "让vimrc配置变更立即生效
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
 
-
 "----------------------gutentags相关配置-----------------------
 "gutentags搜索工程目录的标志，碰到这些文件/目录名就停止向上一级目录递归
 let g:gutentags_project_root = ['.root', '.svn', '.git', '.project']
